@@ -14,11 +14,20 @@
   <a href="mailto:adityapandey.inbox@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://stackoverflow.com/users/20723705/aditya-pandey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stackoverflow logo" />
+  <a href="https://leetcode.com/u/adityapandeydev/" target="blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.codechef.com/users/adityadevcode" target="blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.hackerrank.com/adityapandeydev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
+  </a>
+  <a href="https://codeforces.com/profile/adityapandeydev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=E74C3C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
+  </a>
+  <a href="https://stackoverflow.com/users/20723705/aditya-pandey" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stackoverflow logo" />
   </a>
 </div>
 
