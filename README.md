@@ -124,7 +124,7 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityapandeydev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=adityapandeydev&limit=4&theme=aura_dark&combine_all_yearly_contributions=true&order_by=contributions" />
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapandeydev&label=Profile%20views&color=0e75b6&style=flat" alt="adityapandeydev" /> </p>
