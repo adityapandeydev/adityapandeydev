@@ -116,15 +116,16 @@
 
 # 📊 GitHub Stats:
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandeydev&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeydev&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" height="180" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityapandeydev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapandeydev&theme=tokyonight&hide_border=false" height="180" alt="streak stats"  />
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapandeydev&theme=aura_dark&hide_border=false" height="180" alt="stats graph"  />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityapandeydev&theme=tokyonight" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeydev&hide=html,css&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" height="180" alt="languages graph"  />
   </div>
 </div>
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=adityapandeydev&limit=4&theme=aura_dark&combine_all_yearly_contributions=true&order_by=contributions" />
+<img src="https://github-contributor-stats.vercel.app/api?username=adityapandeydev&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&order_by=contributions" />
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapandeydev&label=Profile%20views&color=0e75b6&style=flat" alt="adityapandeydev" /> </p>
