@@ -119,13 +119,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityapandeydev&theme=tokyonight" />
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=adityapandeydev&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="streak card"/>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=adityapandeydev&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeydev&hide=html,css&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" height="180" alt="languages graph"  />
+    <img src="https://github-readme-stats-sandy-phi-16.vercel.app/api?username=adityapandeydev&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats-sandy-phi-16.vercel.app/api/top-langs/?username=adityapandeydev&hide=html,css&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" height="180" alt="languages graph"  />
   </div>
 </div>
 
 <!-- ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=adityapandeydev&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&order_by=contributions" /> -->
+<img src="https://github-readme-stats-sandy-phi-16.vercel.app/api?username=adityapandeydev&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&order_by=contributions" /> -->
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapandeydev&label=Profile%20views&color=0e75b6&style=flat" alt="adityapandeydev" /> </p>
