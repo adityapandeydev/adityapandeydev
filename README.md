@@ -116,7 +116,7 @@
 
 # 📊 GitHub Stats:
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityapandeydev&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityapandeydev&theme=tokyonight" width="815"/>
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=adityapandeydev&count_private=true&theme=tokyonight&hide_border=true" height="180" width="424" alt="streak card"/>
   <div>
     <img src="https://github-readme-stats-sandy-phi-16.vercel.app/api?username=adityapandeydev&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged&custom_title=Stats" height="200" alt="stats graph" />
