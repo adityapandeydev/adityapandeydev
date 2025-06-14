@@ -1,4 +1,7 @@
-<h2 align="left">Hi I'm Aditya, Software Developer</h2>
+# Hi I'm Aditya!
+
+I am a software developer who loves building systems, tools, and backend-heavy projects. I enjoy working across languages like  Java, Python and TypeScript, and I often experiment with compilers, automation, and low-level concepts. From crafting web apps to creating developer tooling and learning new technologies like Nix and Zig, I focus on writing clean, efficient, and scalable software. Always learning, always building.
+
 
 ## 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=rust,go,java,py,c,ts,react,nodejs,mongodb,postgres,mysql,aws,linux,nix,bash" />
