@@ -1,7 +1,7 @@
-<h2 align="left">>Hi 👋 I'm Aditya, Software Developer</h2>
+<h2 align="left">Hi I'm Aditya, Software Developer</h2>
 
 ## 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=rust,go,java,py,c,ts,zig,react,nodejs,mongodb,postgres,mysql,aws,cmake,linux,nix,bash" />
+<img src="https://skillicons.dev/icons?i=rust,go,java,py,c,ts,react,nodejs,mongodb,postgres,mysql,aws,linux,nix,bash" />
 
 # 📊 GitHub Stats:
 <div align="left">
