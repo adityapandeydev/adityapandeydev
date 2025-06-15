@@ -1,6 +1,6 @@
 # Hi I'm Aditya!
 
-I am a software developer who loves building systems, tools, and backend-heavy projects. I enjoy working across languages like  Java, Python and TypeScript, and I often experiment with compilers, automation, and low-level concepts. From crafting web apps to creating developer tooling and learning new technologies like Nix and Zig, I focus on writing clean, efficient, and scalable software. Always learning, always building.
+I am a software developer who loves building systems, tools, and backend-heavy projects. I enjoy working across languages like  Java, Python and TypeScript, and I often experiment with compilers, automation, and low-level concepts. From crafting web apps to creating developer tooling and learning new technologies like Nix and Zig, I focus on writing clean, efficient, and scalable software. Always learning, always buildin.
 
 
 ## 💻 Tech Stack:
