@@ -1,11 +1,11 @@
-# Hi I'm Aditya!
+## Hi I'm Aditya!
 I am a software developer who loves building systems, tools, and backend-heavy projects. I enjoy working across languages like Java, Python, and TypeScript, and I often experiment with compilers, automation, and low-level concepts. I build everything from web applications to developer tooling, and I like exploring new technologies like Nix and Zig. Always learning, always building.
 
 
 ## 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=java,py,c,ts,rust,go,react,nodejs,mongodb,postgres,mysql,aws,linux,nix,bash" />
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="left">
   
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=adityapandeydev&count_private=true&theme=tokyonight&hide_border=true" height="180" width="424" alt="streak card"/>
