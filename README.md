@@ -11,7 +11,7 @@ I am a software developer who loves building systems, tools, and backend-heavy p
   <img src="https://github-readme-stats-fast-amber.vercel.app/api/streak?username=adityapandeydev&count_private=true&theme=tokyonight&hide_border=true" height="180" width="424" alt="streak card"/>
   <div>
     <img src="https://github-readme-stats-fast-amber.vercel.app/api?username=adityapandeydev&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged&custom_title=Stats" height="200" alt="stats graph" />
-    <img src="https://github-readme-stats-fast-amber.vercel.app/api/top-langs/?username=adityapandeydev&hide=html,css,Jupyter%20Notebook,TeX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=github-readme-stats&card_width=320" height="200" alt="languages graph"  />
+    <img src="https://github-readme-stats-fast-amber.vercel.app/api/top-langs/?username=adityapandeydev&hide=html,css,Jupyter%20Notebook,TeX, Javascript&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=github-readme-stats&card_width=320" height="200" alt="languages graph"  />
   </div>
 </div>
 
