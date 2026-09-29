@@ -7,7 +7,7 @@ I am a software developer who loves building systems, tools, and backend-heavy p
 
 ## 📊 GitHub Stats:
 <div align="left">
-  <img align="right" src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/languages.svg" width="424" alt="languages graph" />
+  <img align="right" src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/languages.svg" width="400" alt="languages graph" />
   <img src="https://github-readme-stats-fast-amber.vercel.app/api/streak?username=adityapandeydev&count_private=true&theme=tokyonight&hide_border=true" width="424" alt="streak card"/>
   <br/>
   <img src="https://github-readme-stats-fast-amber.vercel.app/api?username=adityapandeydev&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged&custom_title=Stats" width="424" alt="stats graph" />
