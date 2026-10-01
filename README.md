@@ -7,10 +7,15 @@ I am a software developer who loves building systems, tools, and backend-heavy p
 
 ## 📊 GitHub Stats:
 <div align="left">
-  <img align="right" src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/languages.svg" width="400" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/streak.svg" width="424" alt="GitHub Streak" />
+  <!-- Right Column: Languages Card -->
+  <img align="right" src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/generated/languages.svg" width="400" alt="Top Languages" />
+  
+  <!-- Left Column: Streak Card (Top) -->
+  <img src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/generated/streak.svg" width="424" alt="GitHub Streak" />
   <br/>
-  <img src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/stats.svg" width="424" alt="Developer Stats" />
+  <!-- Left Column: Developer Stats Card (Bottom) -->
+  <img src="https://raw.githubusercontent.com/adityapandeydev/git-stats/main/generated/stats.svg" width="424" alt="Developer Stats" />
 </div>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapandeydev&label=Profile%20views&color=0e75b6&style=flat" alt="adityapandeydev" /> </p> -->
